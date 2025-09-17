@@ -28,6 +28,8 @@ This Lambda cleans the data and saves important details.
 DynamoDB
 The cleaned resume details (like candidate name, email, skills) are stored in a DynamoDB table for quick search.
 
+
+
 # Why This Matters
 
 1. HR teams save hours of manual reading.
