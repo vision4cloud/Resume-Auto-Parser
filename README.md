@@ -28,7 +28,7 @@ This Lambda cleans the data and saves important details.
 DynamoDB
 The cleaned resume details (like candidate name, email, skills) are stored in a DynamoDB table for quick search.
 
-![Architecture](assets/Resume-Auto-Parser-Architecture.png)
+![Architecture](image/Resume-Auto-Parser-Architecture.png)
 
 
 # Why This Matters
